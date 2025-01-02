@@ -1,7 +1,7 @@
 # OCD-Patients Repository
 
 ## Overview
-The **OCD-Patients** repository is designed to facilitate the analysis and visualization of data related to patients with Obsessive-Compulsive Disorder (OCD). The goal of this project is to provide actionable insights for stakeholders, including healthcare providers and researchers, by leveraging advanced business intelligence tools and methods.
+The **OCD-Patients** repository is designed to facilitate the analysis and visualization of healthcare data related to patients with Obsessive-Compulsive Disorder (OCD). The goal of this project is to provide actionable insights for stakeholders, including healthcare providers and researchers, by leveraging advanced business intelligence tools and methods.
 
 ## Key Features
 - **Data Management**: Efficient retrieval and manipulation of large datasets using **MySQL**.
