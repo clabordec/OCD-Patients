@@ -112,7 +112,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
-- **Name**: [Your Name]
+- **Name**: Chaanyah Laborde
 - **Email**: [your.email@example.com]
 - **LinkedIn**: [Your LinkedIn Profile URL]
 
