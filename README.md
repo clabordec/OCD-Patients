@@ -116,6 +116,3 @@ For questions, feedback, or collaboration opportunities, please contact:
 - **Email**: chaanyahlaborde@gmail.com
 - **LinkedIn**: [claborde](https://www.linkedin.com/in/claborde/)
 
----
-**Empowering healthcare providers and researchers with actionable insights.**
-
