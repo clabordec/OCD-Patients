@@ -114,7 +114,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 For questions, feedback, or collaboration opportunities, please contact:
 - **Name**: Chaanyah Laborde
 - **Email**: chaanyahlaborde@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile URL]
+- **LinkedIn**: [claborde](https://www.linkedin.com/in/claborde/)
 
 ---
 **Empowering healthcare providers and researchers with actionable insights.**
