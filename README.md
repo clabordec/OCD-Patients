@@ -77,28 +77,6 @@ To run the analyses and visualizations, ensure you have the following installed:
    mysql -u username -p < data/raw/ocd_schema.sql
    ```
 
-## How to Use
-
-### Step 1: Data Retrieval
-- Use the SQL scripts in the `queries/` folder to extract relevant datasets from MySQL.
-  Example:
-  ```bash
-  mysql -u username -p < queries/patient_analysis.sql > output/patient_analysis.csv
-  ```
-
-### Step 2: Data Cleaning
-- Use the Python script in `scripts/` to clean the extracted data:
-  ```bash
-  python scripts/data_cleaning.py
-  ```
-
-### Step 3: Visualization
-- Load the cleaned data into Power BI or Excel to generate visualizations. Templates are provided in the `visuals/` folder.
-
-## Deliverables
-- **Interactive Dashboards**: Delivered through Power BI for live updates and stakeholder presentations.
-- **Reports**: Generated in Excel for portability and quick distribution.
-- **Insights**: Data-driven recommendations to improve patient outcomes and resource allocation.
 
 ## Contributing
 Contributions are welcome! Please follow the steps below:
