@@ -77,15 +77,6 @@ To run the analyses and visualizations, ensure you have the following installed:
    mysql -u username -p < data/raw/ocd_schema.sql
    ```
 
-
-## Contributing
-Contributions are welcome! Please follow the steps below:
-1. Fork the repository.
-2. Create a new branch (`feature/your-feature-name`).
-3. Commit your changes.
-4. Push to the branch and submit a pull request.
-
-
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
 - **Name**: Chaanyah Laborde
