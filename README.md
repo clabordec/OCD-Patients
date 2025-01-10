@@ -63,19 +63,6 @@ To run the analyses and visualizations, ensure you have the following installed:
 - **Microsoft Excel**
 - **Python** (v3.8 or higher) with necessary libraries (e.g., pandas, numpy, sqlalchemy)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/OCD-Patients.git
-   ```
-2. Navigate to the repository:
-   ```bash
-   cd OCD-Patients
-   ```
-3. Set up the MySQL database by importing the provided schema and data:
-   ```bash
-   mysql -u username -p < data/raw/ocd_schema.sql
-   ```
 
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
