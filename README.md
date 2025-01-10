@@ -54,15 +54,6 @@ OCD-Patients/
 └── README.md                 # Repository overview
 ```
 
-## Getting Started
-
-### Prerequisites
-To run the analyses and visualizations, ensure you have the following installed:
-- **MySQL** (v8.0 or higher)
-- **Power BI Desktop** (latest version)
-- **Microsoft Excel**
-- **Python** (v3.8 or higher) with necessary libraries (e.g., pandas, numpy, sqlalchemy)
-
 
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
