@@ -28,32 +28,6 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
   - Creating pivot tables and charts for ad-hoc reporting.
   - Conducting scenario analysis and sharing results in a portable format.
 
-## Repository Structure
-```
-OCD-Patients/
-|
-├── data/                     # Raw and processed data files
-│   ├── raw/                  # Original datasets
-│   └── processed/            # Cleaned and transformed datasets
-|
-├── queries/                  # MySQL scripts for data retrieval
-│   ├── patient_analysis.sql
-│   └── treatment_patterns.sql
-|
-├── visuals/                  # Power BI and Excel visualization files
-│   ├── dashboards.pbix       # Power BI dashboards
-│   └── reports.xlsx          # Excel reports
-|
-├── docs/                     # Documentation and reports
-│   ├── data_dictionary.md    # Explanation of data fields
-│   └── project_summary.pdf   # Executive summary for stakeholders
-|
-├── scripts/                  # Python scripts for data processing
-│   └── data_cleaning.py      # Script for cleaning raw data
-|
-└── README.md                 # Repository overview
-```
-
 
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
