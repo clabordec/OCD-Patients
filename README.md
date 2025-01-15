@@ -10,6 +10,8 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - **Data Analysis**: Comprehensive analysis performed to uncover trends, correlations, and patterns in the data.
 - **Data Visualization**: Creation of intuitive and interactive dashboards using **Power BI** and **Excel** for clear communication of insights to stakeholders.
 
+---
+
 ## Tools and Technologies
 
 ### 1. MySQL
@@ -30,6 +32,7 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
   - Creating pivot tables and charts for ad-hoc reporting.
   - Conducting scenario analysis and sharing results in a portable format.
 
+---
 
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
