@@ -7,6 +7,8 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ---
 
+<br>
+
 ## Key Features
 - **Data Management**: Efficient retrieval and manipulation of large datasets using **MySQL**.
 - **Data Analysis**: Comprehensive analysis performed to uncover trends, correlations, and patterns in the data.
