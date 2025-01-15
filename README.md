@@ -72,6 +72,8 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - **Dynamic Dashboards**: Interactive Excel dashboards for stakeholders.
 - **Scalable Solution**: Reusable pipeline for ongoing data collection and analysis.
 
+---
+
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
 - **Name**: Chaanyah Laborde
