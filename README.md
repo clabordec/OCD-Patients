@@ -34,6 +34,44 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ---
 
+## Workflow
+
+### 1. **Data Collection**
+- Use Bright Data to scrape real estate listings, including:
+  - Property type (e.g., apartment, house, commercial).
+  - Location details.
+  - Price, size, and additional features.
+- Schedule automated scraping jobs to ensure data freshness.
+
+### 2. **Data Transformation**
+- Clean and preprocess data using Python.
+  - Handle missing values, duplicates, and inconsistent formatting.
+  - Convert raw data into structured formats (CSV, JSON).
+
+### 3. **Data Storage**
+- Load the processed data into Snowflake for centralized storage.
+- Ensure data integrity and scalability for future analytical needs.
+
+### 4. **Data Analysis**
+- Query the data in Snowflake to derive key metrics, such as:
+  - Average property prices per location.
+  - Trends in real estate demand over time.
+  - Distribution of property types.
+
+### 5. **Business Intelligence**
+- Use Excel for advanced transformations and to create dynamic dashboards.
+- Generate visualizations such as:
+  - Heatmaps for property demand.
+  - Price trends across regions.
+  - Comparison of rental vs. sale markets.
+
+---
+
+## Deliverables
+- **Data Insights**: Comprehensive reports on real estate market trends.
+- **Dynamic Dashboards**: Interactive Excel dashboards for stakeholders.
+- **Scalable Solution**: Reusable pipeline for ongoing data collection and analysis.
+
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
 - **Name**: Chaanyah Laborde
