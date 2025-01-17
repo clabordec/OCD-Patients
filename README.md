@@ -35,42 +35,64 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 ---
 
 ## Workflow
+Data Collection and Preparation
 
-### 1. **Data Collection**
-- Use Bright Data to scrape real estate listings, including:
-  - Property type (e.g., apartment, house, commercial).
-  - Location details.
-  - Price, size, and additional features.
-- Schedule automated scraping jobs to ensure data freshness.
+Source Data Identification: Extract OCD-related data from relevant datasets or databases.
+Data Cleaning: Use Excel to remove duplicates, handle missing values, and standardize formats.
+Data Import: Transfer the cleaned data into MySQL for structured storage and querying.
+Database Design and Management
 
-### 2. **Data Transformation**
-- Clean and preprocess data using Python.
-  - Handle missing values, duplicates, and inconsistent formatting.
-  - Convert raw data into structured formats (CSV, JSON).
+Schema Design: Create normalized tables in MySQL to represent the data entities and their relationships.
+Data Ingestion: Import cleaned datasets into the MySQL database using tools like LOAD DATA INFILE or MySQL Workbench.
+Query Optimization: Write and optimize SQL queries to efficiently extract insights.
+Data Analysis
 
-### 3. **Data Storage**
-- Load the processed data into Snowflake for centralized storage.
-- Ensure data integrity and scalability for future analytical needs.
+Exploratory Data Analysis (EDA): Use SQL and Excel to summarize and explore the data for trends, patterns, and anomalies.
+Data Transformation: Prepare data subsets and aggregate metrics as required for visualization.
+Visualization and Reporting
 
-### 4. **Data Analysis**
-- Query the data in Snowflake to derive key metrics, such as:
-  - Average property prices per location.
-  - Trends in real estate demand over time.
-  - Distribution of property types.
+Power BI Dashboard Development:
+Connect Power BI to the MySQL database for live data integration.
+Design interactive dashboards to visualize OCD patient trends, statistics, and other relevant metrics.
+Report Automation: Set up scheduled refreshes in Power BI for updated data representation.
+Testing and Validation
 
-### 5. **Business Intelligence**
-- Use Excel for advanced transformations and to create dynamic dashboards.
-- Generate visualizations such as:
-  - Heatmaps for property demand.
-  - Price trends across regions.
-  - Comparison of rental vs. sale markets.
+Validate SQL queries and Power BI reports for accuracy.
+Cross-check dashboard insights against source data for consistency.
+Documentation and Deployment
 
----
+Document workflows, SQL queries, and Power BI design considerations.
+Share dashboards and reports with stakeholders via Power BI Service or other platforms.
+
 
 ## Deliverables
-- **Data Insights**: Comprehensive reports on real estate market trends.
-- **Dynamic Dashboards**: Interactive Excel dashboards for stakeholders.
-- **Scalable Solution**: Reusable pipeline for ongoing data collection and analysis.
+Cleaned and Structured Data
+
+Cleaned datasets saved in Excel or CSV format.
+Structured data stored in a MySQL database with appropriate schemas.
+SQL Scripts
+
+Scripts for database creation, data import, and querying.
+Optimized SQL queries used for analysis.
+Power BI Dashboards
+
+Interactive visualizations of OCD-related metrics and insights.
+Dashboards with features like filtering, drill-through, and KPI indicators.
+Documentation
+
+Workflow documentation including steps for data preparation, database management, and report generation.
+User guide for accessing and interpreting Power BI dashboards.
+Final Reports
+
+Summary reports exported from Power BI as PDFs or shared via Power BI Service.
+Project Repository
+
+Organized repository including:
+SQL scripts.
+Excel files.
+Power BI project files (.pbix).
+Documentation.
+
 
 ---
 
