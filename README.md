@@ -35,10 +35,11 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 ---
 
 ## Workflow
+
 ### 1. Data Collection and Preparation
-    - **Source Data Identification: Extract** OCD-related data from relevant datasets or databases.
-    - **Data Cleaning**: Use Excel to remove duplicates, handle missing values, and standardize formats.
-    - **Data Import**: Transfer the cleaned data into MySQL for structured storage and querying.
+  - **Source Data Identification**: Extract OCD-related data from relevant datasets or databases.
+  - **Data Cleaning**: Use Excel to remove duplicates, handle missing values, and standardize formats.
+  - **Data Import**: Transfer the cleaned data into MySQL for structured storage and querying.
 
 ### 2. Database Design and Management
 
