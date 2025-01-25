@@ -47,7 +47,7 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - **Data Ingestion**: Import cleaned datasets into the MySQL database using tools like LOAD DATA INFILE or MySQL Workbench.
 - **Query Optimization**: Write and optimize SQL queries to efficiently extract insights.
 
-### Data Analysis
+### 3. Data Analysis
 
 Exploratory Data Analysis (EDA): Use SQL and Excel to summarize and explore the data for trends, patterns, and anomalies.
 Data Transformation: Prepare data subsets and aggregate metrics as required for visualization.
