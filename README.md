@@ -43,10 +43,11 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ### 2. Database Design and Management
 
-Schema Design: Create normalized tables in MySQL to represent the data entities and their relationships.
-Data Ingestion: Import cleaned datasets into the MySQL database using tools like LOAD DATA INFILE or MySQL Workbench.
-Query Optimization: Write and optimize SQL queries to efficiently extract insights.
-Data Analysis
+- **Schema Design**: Create normalized tables in MySQL to represent the data entities and their relationships.
+- **Data Ingestion**: Import cleaned datasets into the MySQL database using tools like LOAD DATA INFILE or MySQL Workbench.
+- **Query Optimization**: Write and optimize SQL queries to efficiently extract insights.
+
+### Data Analysis
 
 Exploratory Data Analysis (EDA): Use SQL and Excel to summarize and explore the data for trends, patterns, and anomalies.
 Data Transformation: Prepare data subsets and aggregate metrics as required for visualization.
