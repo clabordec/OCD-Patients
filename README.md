@@ -54,10 +54,10 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ### 4. Visualization and Reporting
 
-Power BI Dashboard Development: Connect Power BI to the MySQL database for live data integration. Design interactive dashboards to visualize OCD patient trends, statistics, and other relevant metrics.
-Report Automation: Set up scheduled refreshes in Power BI for updated data representation.
+- **Power BI Dashboard Development**: Connect Power BI to the MySQL database for live data integration. Design interactive dashboards to visualize OCD patient trends, statistics, and other relevant metrics.
+- **Report Automation**: Set up scheduled refreshes in Power BI for updated data representation.
 
-Testing and Validation
+### 5. Testing and Validation
 Validate SQL queries and Power BI reports for accuracy.
 Cross-check dashboard insights against source data for consistency.
 
