@@ -49,20 +49,19 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ### 3. Data Analysis
 
-Exploratory Data Analysis (EDA): Use SQL and Excel to summarize and explore the data for trends, patterns, and anomalies.
-Data Transformation: Prepare data subsets and aggregate metrics as required for visualization.
-Visualization and Reporting
+- **Exploratory Data Analysis (EDA)**: Use SQL and Excel to summarize and explore the data for trends, patterns, and anomalies.
+- **Data Transformation**: Prepare data subsets and aggregate metrics as required for visualization.
 
-Power BI Dashboard Development:
-Connect Power BI to the MySQL database for live data integration.
-Design interactive dashboards to visualize OCD patient trends, statistics, and other relevant metrics.
+### 4. Visualization and Reporting
+
+Power BI Dashboard Development: Connect Power BI to the MySQL database for live data integration. Design interactive dashboards to visualize OCD patient trends, statistics, and other relevant metrics.
 Report Automation: Set up scheduled refreshes in Power BI for updated data representation.
-Testing and Validation
 
+Testing and Validation
 Validate SQL queries and Power BI reports for accuracy.
 Cross-check dashboard insights against source data for consistency.
-Documentation and Deployment
 
+Documentation and Deployment
 Document workflows, SQL queries, and Power BI design considerations.
 Share dashboards and reports with stakeholders via Power BI Service or other platforms.
 
