@@ -58,8 +58,8 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - **Report Automation**: Set up scheduled refreshes in Power BI for updated data representation.
 
 ### 5. Testing and Validation
-Validate SQL queries and Power BI reports for accuracy.
-Cross-check dashboard insights against source data for consistency.
+- Validate SQL queries and Power BI reports for accuracy.
+- Cross-check dashboard insights against source data for consistency.
 
 Documentation and Deployment
 Document workflows, SQL queries, and Power BI design considerations.
