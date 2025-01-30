@@ -61,9 +61,9 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - Validate SQL queries and Power BI reports for accuracy.
 - Cross-check dashboard insights against source data for consistency.
 
-Documentation and Deployment
-Document workflows, SQL queries, and Power BI design considerations.
-Share dashboards and reports with stakeholders via Power BI Service or other platforms.
+### 6. Documentation and Deployment
+- Document workflows, SQL queries, and Power BI design considerations.
+- Share dashboards and reports with stakeholders via Power BI Service or other platforms.
 
 
 ## Deliverables
