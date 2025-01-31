@@ -67,10 +67,10 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 
 ## Deliverables
-Cleaned and Structured Data
+### 1. Cleaned and Structured Data
+- Cleaned datasets saved in Excel or CSV format.
+- Structured data stored in a MySQL database with appropriate schemas.
 
-Cleaned datasets saved in Excel or CSV format.
-Structured data stored in a MySQL database with appropriate schemas.
 SQL Scripts
 
 Scripts for database creation, data import, and querying.
