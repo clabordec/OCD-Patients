@@ -71,10 +71,10 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - Cleaned datasets saved in Excel or CSV format.
 - Structured data stored in a MySQL database with appropriate schemas.
 
-SQL Scripts
+### 2. SQL Scripts
+- Scripts for database creation, data import, and querying.
+- Optimized SQL queries used for analysis.
 
-Scripts for database creation, data import, and querying.
-Optimized SQL queries used for analysis.
 Power BI Dashboards
 
 Interactive visualizations of OCD-related metrics and insights.
