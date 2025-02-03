@@ -75,7 +75,7 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 - Scripts for database creation, data import, and querying.
 - Optimized SQL queries used for analysis.
 
-Power BI Dashboards
+### 3. Power BI Dashboards
 
 Interactive visualizations of OCD-related metrics and insights.
 Dashboards with features like filtering, drill-through, and KPI indicators.
