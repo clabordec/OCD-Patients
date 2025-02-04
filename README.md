@@ -77,9 +77,10 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ### 3. Power BI Dashboards
 
-Interactive visualizations of OCD-related metrics and insights.
-Dashboards with features like filtering, drill-through, and KPI indicators.
-Documentation
+- Interactive visualizations of OCD-related metrics and insights.
+- Dashboards with features like filtering, drill-through, and KPI indicators.
+
+### 4. Documentation
 
 Workflow documentation including steps for data preparation, database management, and report generation.
 User guide for accessing and interpreting Power BI dashboards.
