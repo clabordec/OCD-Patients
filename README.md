@@ -82,18 +82,20 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ### 4. Documentation
 
-Workflow documentation including steps for data preparation, database management, and report generation.
-User guide for accessing and interpreting Power BI dashboards.
-Final Reports
+- Workflow documentation including steps for data preparation, database management, and report generation.
+- User guide for accessing and interpreting Power BI dashboards.
 
-Summary reports exported from Power BI as PDFs or shared via Power BI Service.
-Project Repository
+### 5. Final Reports
 
-Organized repository including:
-SQL scripts.
-Excel files.
-Power BI project files (.pbix).
-Documentation.
+- Summary reports exported from Power BI as PDFs or shared via Power BI Service.
+
+## Project Repository
+
+### Organized repository including:
+- SQL scripts.
+- Excel files.
+- Power BI project files (.pbix).
+- Documentation.
 
 
 ---
