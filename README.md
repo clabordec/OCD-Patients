@@ -102,7 +102,7 @@ The **OCD-Patients** repository is designed to facilitate the analysis and visua
 
 ## Contact
 For questions, feedback, or collaboration opportunities, please contact:
-- **Name**: Chaanyah Laborde
+- **Author**: Chaanyah Laborde
 - **Email**: chaanyahlaborde@gmail.com
 - **LinkedIn**: [claborde](https://www.linkedin.com/in/claborde/)
 
